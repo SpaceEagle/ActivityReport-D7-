@@ -1,0 +1,18 @@
+.label {
+    display: inline; 
+    padding: .2em .6em .3em;
+    font-weight: 700;
+    line-height: 1;
+    text-align: center;
+    white-space: nowrap;
+    vertical-align: baseline;
+    border-radius: .25em;
+    color: #333;
+}
+
+ .main-grid-cell-checkbox   { display: none; }
+
+ tr[group-row="group-row"] td {
+     background-color: #f6f8f9;
+ }
+
