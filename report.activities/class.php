@@ -267,43 +267,6 @@ class CPonyExMonitoringListComponent extends CBitrixComponent implements Bitrix\
                     'START_TIME_year' => '',
                 ]
             ],
-//            'call_meeting' => [
-//                'name' => 'За последние 30 дней',
-//                'sort' => '7',
-//                'default' => true,
-//                'fields' => [
-//                    'STATUS' => '',
-//                    'CREATED_datesel' => 'LAST_30_DAYS',
-//                    'CREATED_from' => '',
-//                    'CREATED_to' => '',
-//                    'CREATED_days' => '',
-//                    'CREATED_month' => '',
-//                    'CREATED_quarter' => '',
-//                    'CREATED_year' => '',
-//                    'START_TIME_datesel' => 'NONE',
-//                    'START_TIME_from' => '',
-//                    'START_TIME_to' => '',
-//                    'START_TIME_days' => '',
-//                    'START_TIME_month' => '',
-//                    'START_TIME_quarter' => '',
-//                    'START_TIME_year' => '',
-//                    'END_TIME_datesel' => 'NONE',
-//                    'END_TIME_from' => '',
-//                    'END_TIME_to' => '',
-//                    'END_TIME_days' => '',
-//                    'END_TIME_month' => '',
-//                    'END_TIME_quarter' => '',
-//                    'END_TIME_year' => '',
-//                    'TYPE_ID' =>
-//                        array (
-//                            0 => '1',
-//                            1 => '2',
-//                        ),
-//                    'PRIORITY' => '',
-//                ],
-//                'filter_rows' => 'RESPONSIBLE_ID,STATUS,CREATED,START_TIME,END_TIME,TYPE_ID,PRIORITY,COMPANY,ASSOCIATED_ENTITY_ID',
-//                'for_all' => true,
-//            ],
         ];
     }
 
